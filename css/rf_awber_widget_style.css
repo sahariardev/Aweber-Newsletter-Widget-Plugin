@@ -1,0 +1,40 @@
+    @import 'https://fonts.googleapis.com/css?family=Changa';
+    .rf_widget_container
+         {
+             width: 100%;
+             text-align: center;
+             padding: 15px;
+             background-color: #00ccff;
+             font-family: 'Changa', sans-serif;
+             margin-bottom: 10px;
+             padding-bottom: 25px;
+             
+             
+             
+         }
+        .rf_widget_container input
+         {
+             font-size: 16px;
+             padding: 5px;
+             
+         }
+         .rf_widget_form_container
+         {
+             
+             
+             
+         }
+         .rf_widget_container input[type="submit"]
+         {
+             color:white;
+             border: none;
+             background-color: gray;
+             padding: 10px;
+             padding-left: 20px;
+             padding-right: 20px;
+             margin-top: 10px;
+             cursor: pointer;
+            
+             
+                 
+         }
